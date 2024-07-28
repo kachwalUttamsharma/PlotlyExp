@@ -1,13 +1,16 @@
-import React from "react";
+import React, { Suspense, lazy } from "react";
 import "./App.css";
-import PlotlyChart from "./PlotlyChart";
+
+const PlotlyChart = lazy(() => import("./PlotlyChart"));
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
         <h1>Plotly.js with React</h1>
-        <PlotlyChart />
+        <Suspense fallback={<div>Loading...</div>}>
+          <PlotlyChart />
+        </Suspense>
       </header>
     </div>
   );
