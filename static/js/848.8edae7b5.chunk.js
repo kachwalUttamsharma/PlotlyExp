@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkplotly_react_app=self.webpackChunkplotly_react_app||[]).push([[848],{848:(e,t,a)=>{a.r(t),a.d(t,{default:()=>p});a(43);var l=a(537),r=a(579);const p=()=>(0,r.jsx)(l.A,{data:[{x:[1,2,3,4,5],y:[2,6,3,8,5],type:"scatter",mode:"lines+markers",marker:{color:"red"}},{type:"bar",x:[1,2,3,4,5],y:[2,5,3,7,4]}],layout:{title:"A Simple Plotly Chart"}})}}]);
+//# sourceMappingURL=848.8edae7b5.chunk.js.map

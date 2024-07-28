@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/PlotlyExp/static/css/main.f855e6bc.css",
-    "main.js": "/PlotlyExp/static/js/main.1d0f2f83.js",
+    "main.js": "/PlotlyExp/static/js/main.2ea234ad.js",
+    "static/js/848.8edae7b5.chunk.js": "/PlotlyExp/static/js/848.8edae7b5.chunk.js",
     "static/js/453.03660560.chunk.js": "/PlotlyExp/static/js/453.03660560.chunk.js",
+    "static/js/537.1deeb1bf.chunk.js": "/PlotlyExp/static/js/537.1deeb1bf.chunk.js",
     "index.html": "/PlotlyExp/index.html",
     "main.f855e6bc.css.map": "/PlotlyExp/static/css/main.f855e6bc.css.map",
-    "main.1d0f2f83.js.map": "/PlotlyExp/static/js/main.1d0f2f83.js.map",
-    "453.03660560.chunk.js.map": "/PlotlyExp/static/js/453.03660560.chunk.js.map"
+    "main.2ea234ad.js.map": "/PlotlyExp/static/js/main.2ea234ad.js.map",
+    "848.8edae7b5.chunk.js.map": "/PlotlyExp/static/js/848.8edae7b5.chunk.js.map",
+    "453.03660560.chunk.js.map": "/PlotlyExp/static/js/453.03660560.chunk.js.map",
+    "537.1deeb1bf.chunk.js.map": "/PlotlyExp/static/js/537.1deeb1bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.1d0f2f83.js"
+    "static/js/main.2ea234ad.js"
   ]
 }
